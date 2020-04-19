@@ -25,7 +25,7 @@
     </dependencies>
 
     <build>
-        <finalName>teste-fuji-sonar</finalName>
+        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
