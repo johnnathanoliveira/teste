@@ -1,23 +1,9 @@
-import junit.framework.TestCase;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TrianguloTeste extends TestCase {
-    public TrianguloTeste(String testName) {
-        super(testName);
-    }
-
-    @org.junit.BeforeClass
-    public static void setUpClass() throws Exception {
-    }
-
-    @org.junit.AfterClass
-    public static void tearDownClass() throws Exception {
-    }
-
-    /**
-     * Test of Classificar method, of class Triangulo.
-     */
+public class TrianguloTeste {
+    @Test
     public void testClassificar() {
         System.out.println("Classificar");
         double a = 10.0;
