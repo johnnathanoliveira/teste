@@ -12,7 +12,7 @@
         <java.version>1.11</java.version>
         <sonar.projectKey>projetoteste</sonar.projectKey>
         <sonar.host.url>http://localhost:9000/</sonar.host.url>
-        <sonar.login>8b03237bf3648d17e8fe97e954f34e300d0ff836</sonar.login>
+        <sonar.login>9a238355577a15ef51f7a6a1572856cf90127d0a</sonar.login>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
